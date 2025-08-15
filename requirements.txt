@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy[asyncio]
+asyncpg
+pydantic
+confluent-kafka
+alembic
+psycopg2-binary
+pydantic[email]
