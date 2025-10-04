@@ -1,3 +1,4 @@
+prometheus-client
 fastapi
 uvicorn[standard]
 sqlalchemy[asyncio]
